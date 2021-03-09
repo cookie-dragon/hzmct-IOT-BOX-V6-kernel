@@ -1,0 +1,1 @@
+# hzmct-IOT-BOX-V6-kernel
